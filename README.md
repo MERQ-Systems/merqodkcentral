@@ -1,4 +1,4 @@
-ODK Central
+MERQ ODK Central
 ===========
 
 Central is the [ODK](https://getodk.org/) server. It manages user accounts and permissions, stores form definitions, and allows data collection clients like ODK Collect to connect to it for form download and submission upload.
